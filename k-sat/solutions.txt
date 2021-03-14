@@ -1,0 +1,20 @@
+After Variable Neighbourhood
+{'E': True, 'G': False, 'D': False, 'F': False, 'A': False, 'B': False, 'C': False}
+{'E': False, 'G': False, 'D': False, 'F': True, 'A': False, 'B': True, 'C': False}
+{'E': False, 'G': True, 'D': False, 'F': False, 'A': False, 'C': False, 'B': True}
+{'E': True, 'G': False, 'D': False, 'F': False, 'A': False, 'C': True, 'B': True}
+{'E': True, 'G': False, 'D': False, 'F': False, 'A': False, 'B': False, 'C': False}
+{'E': True, 'G': True, 'D': True, 'F': False, 'A': False, 'B': True, 'C': True}
+{'E': False, 'G': True, 'D': False, 'F': False, 'A': False, 'C': False, 'B': True}
+{'E': False, 'G': True, 'D': False, 'F': False, 'A': False, 'C': True, 'B': True}
+{'E': False, 'G': False, 'D': True, 'F': False, 'A': False, 'B': False, 'C': False}
+{'E': True, 'G': True, 'D': True, 'F': False, 'A': False, 'B': True, 'C': True}
+{'E': True, 'G': False, 'D': True, 'F': True, 'A': False, 'C': False, 'B': True}
+{'E': False, 'G': False, 'D': True, 'F': False, 'A': False, 'C': True, 'B': True}
+{'E': True, 'G': False, 'D': False, 'F': False, 'A': False, 'B': False, 'C': False}
+{'E': False, 'G': False, 'D': False, 'F': True, 'A': False, 'B': True, 'C': False}
+{'E': False, 'G': False, 'D': False, 'F': True, 'A': False, 'C': False, 'B': True}
+{'E': True, 'G': False, 'D': False, 'F': False, 'A': False, 'C': True, 'B': True}
+{'E': True, 'G': False, 'D': False, 'F': False, 'A': False, 'B': False, 'C': False}
+{'E': True, 'G': False, 'D': True, 'F': False, 'A': True, 'B': True, 'C': True}
+{'E': True, 'G': False, 'D': True, 'F': False, 'A': True, 'C': True, 'B': True}
